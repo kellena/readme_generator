@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellena/readme_generator.git"
+  },
+  "author": "Kellen Andrea",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellena/readme_generator/issues"
+  },
+  "homepage": "https://github.com/kellena/readme_generator#readme",
   "dependencies": {
     "inquirer": "^8.2.2"
   }
