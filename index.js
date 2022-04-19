@@ -78,5 +78,4 @@ function init() {
     })
 }
 
-
 init();
