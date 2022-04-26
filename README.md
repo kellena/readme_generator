@@ -1,5 +1,5 @@
 # README Generator
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Table of Contents:
 
@@ -13,19 +13,19 @@
   [Contact](#contact)
 
   # Description
-  test
+  This app builds a basic README file given user input in the terminal.
 
   # Installation
-  test
+  Run npm i
 
   # Usage
-  test
+  No current usage information
 
   # Contributing
-  test
+  If you have any edits to this app, please feel free to contact me below!
 
   # Tests
-  test
+  Testing currently in development.
 
   # License
 
@@ -33,6 +33,5 @@
 
   ### Contact
   GitHub Profile: (https://github.com/kellena)
-  Email:   test@gmail.com
-  
+  Email:   kellen.andrea.416@gmail.com
   
