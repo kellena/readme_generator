@@ -78,8 +78,8 @@ function generateMarkdown(data) {
   ${data.tests}
 
   # License
-
-  # Questions
+  ${renderLicenseLink(data.license)}
+  ${renderLicenseSection(data)}
 
   ### Contact
   GitHub Profile: (https://github.com/${data.username})
